@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello
+## My name is Frank, I am a Software Engineering Student looking for a Graduate role in the UK.
 
 <!--
 **FranklinWilson/FranklinWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
